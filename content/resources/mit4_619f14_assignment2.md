@@ -6,6 +6,8 @@ description: Instructions for an assignment to choose one of the early scholars 
 file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/82413ac0b791c7d8e424c61da4847cc8_MIT4_619F14_assignment2.pdf
 file_size: 140411
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

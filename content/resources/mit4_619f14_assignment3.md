@@ -6,6 +6,8 @@ description: Instructions for an assignment to choose an example of epigraphy on
 file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/d45bcc2ee3bfd2dce29863381a74ce46_MIT4_619F14_assignment3.pdf
 file_size: 138395
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

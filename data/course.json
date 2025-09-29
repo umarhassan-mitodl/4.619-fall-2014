@@ -43,6 +43,7 @@
     "website": "4-619-historiography-of-islamic-architecture-fall-2014"
   },
   "course_title": "Historiography of Islamic Architecture",
+  "hide_download": true,
   "course_description": "This seminar offers a critical review of scholarship on Islamic architecture through close reading of scholarly texts, museum exhibitions, and architectural projects. It also tackles methodological and historiographical questions about the field's formation, genealogy, recent expansion, and its evolving historical and theoretical contours.\n",
   "department_numbers": [
     "4"
@@ -53,6 +54,7 @@
     "content": "859837ff-7cb3-7055-bfab-9f909ccdfd8d",
     "website": "4-619-historiography-of-islamic-architecture-fall-2014"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments",
     "Instructor Insights"

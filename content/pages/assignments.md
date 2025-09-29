@@ -3,6 +3,8 @@ content_type: page
 description: This section provides descriptions of the weekly reading and occasional
   writing assignments, a description of the research paper assignment, and suggested
   research topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
