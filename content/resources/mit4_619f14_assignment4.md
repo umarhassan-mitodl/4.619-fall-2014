@@ -6,8 +6,6 @@ description: Instructions for an assignment to choose a canonical example of Isl
 file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/d6628c4da5d2a6993f23b9c12a6943f9_MIT4_619F14_assignment4.pdf
 file_size: 137434
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

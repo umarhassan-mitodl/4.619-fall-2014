@@ -6,8 +6,6 @@ description: Instructions for an assignment to choose an Islamic art object from
 file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/51e04b6d4e9eebdfc43db8b288560f45_MIT4_619F14_assignment5.pdf
 file_size: 130343
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
